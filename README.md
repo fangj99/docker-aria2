@@ -96,7 +96,7 @@ In this instance `-u 1001:1002`. To find yours use `id user` as below:
 
 
 
-
+http://gogit.itfanr.cc/xueer/CodeArticle/raw/d57ebe5cf20103c59d68aa33d99774ff3f26e443/0906_%E4%B8%8B%E8%BD%BD%E7%A5%9E%E5%99%A8aria2.md
 
 
 ### 下载神器aria2
